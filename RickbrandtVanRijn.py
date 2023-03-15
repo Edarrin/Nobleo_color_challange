@@ -5,7 +5,7 @@ from ..bot_control import Move
 class RickbrandtVanRijn:
 
     def get_name(self):
-        return "RickbrandtVanRijn
+        return "RickbrandtVanRijn"
 
     def get_contributor(self):
         return "Rick Voogt"
