@@ -2,16 +2,13 @@ import random
 import numpy as np
 from ..bot_control import Move
 
-class RamboTheRando:
-
-    def __init__(self):
-        self.target = None
+class RickbrandtVanRijn:
 
     def get_name(self):
-        return "Rambo The Rando"
+        return "RickbrandtVanRijn
 
     def get_contributor(self):
-        return "Nobleo"
+        return "Rick Voogt"
 
     def determine_next_move(self, grid, enemies, game_info):
         # Chooses a random target location, and moves there.
